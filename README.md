@@ -1,16 +1,29 @@
-## Hi there 👋
+# Sarah Zanardi - Data Scientist 👩‍💻
 
-<!--
-**SarahZanardi/SarahZanardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Eu sou a Sarah Zanardi, uma apaixonada por ciência de dados e tecnologia. 🚀
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou uma Data Scientist com vasta experiência em:
+
+- **Data Science** 📊
+- **Data Visualization** 📈
+- **ETL (Extract, Transform, Load)** 🔄
+- **Python** 🐍
+- **Power BI** 📊
+
+Também tenho conhecimentos sólidos em:
+
+- **Google Cloud Platform (GCP)** ☁️
+- **Oracle** 🗄️
+- **Microsoft Fabric** 🛠️
+
+## Habilidades Técnicas
+
+- **Linguagens de Programação:** Python, SQL
+- **Ferramentas de Visualização:** Power BI, Google Looker e Tableu
+- **Plataformas de Nuvem:** GCP, Oracle e Fabric
+- **Big Data:** Spark
+
+---
+Sarah Zanardi
