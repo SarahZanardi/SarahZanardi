@@ -1,42 +1,45 @@
-# Sarah Zanardi - Business Intelligence & Data Science 👩‍💻
+Sarah Zanardi — Machine Learning & Data Scientist 👩‍💻
 
-Olá! Eu sou a **Sarah Zanardi**, uma profissional apaixonada por **dados, tecnologia e inovação**. 🚀  
-Atuo como **Business Intelligence Analyst**, com foco em transformar dados em **insights estratégicos** e **soluções orientadas por inteligência artificial**.
+Hello! I’m Sarah Zanardi, a Data Scientist with a strong focus on Machine Learning, statistical modeling, and AI-driven solutions.
+I design, build, and deploy data-driven models to extract insights, automate decisions, and solve complex business problems.
 
----
+🧪 Areas of Expertise
 
-## 💼 Sobre mim
+Machine Learning & Statistical Modeling
 
-Tenho experiência em **Data Science**, **Business Intelligence** e **Análise de Dados**, aplicando metodologias e ferramentas para apoiar a tomada de decisão baseada em dados.
+Exploratory Data Analysis (EDA)
 
-Minhas principais áreas de atuação incluem:
+Feature Engineering & Model Evaluation
 
-- **Data Science & Machine Learning** 🤖  
-- **Data Visualization (Power BI, Python)** 📊  
-- **ETL (Extração, Transformação e Carga de Dados)** 🔄  
-- **Modelagem de Dados e Automação de Processos** ⚙️  
-- **Análise e Processamento de Grandes Volumes de Dados com PySpark e Spark** 🔥  
+Supervised & Unsupervised Learning
 
-Além disso, possuo experiência com:
+End-to-End ML Pipelines
 
-- **Google Cloud Platform (GCP)** ☁️  
-- **Oracle Database** 🗄️  
-- **Microsoft Fabric & Azure Services** 🛠️  
+Large-Scale Data Processing with Spark and PySpark
 
----
+🛠️ Technical Stack
 
-## 🧠 Habilidades Técnicas
+Programming: Python, SQL, PySpark
 
-- **Linguagens de Programação:** Python, SQL, PySpark  
-- **Ferramentas de BI:** Power BI, DAX, Excel Avançado  
-- **Big Data & Processamento:** Spark, PySpark, Pandas  
-- **Cloud & Data Engineering:** GCP, Microsoft Fabric, Oracle  
+ML & Data Science: Scikit-learn, Pandas, NumPy, Statistics
 
----
+Big Data: Spark, PySpark
 
-## 🌟 Sobre mim
+Data Visualization: Matplotlib, Seaborn, Power BI
 
-Sou movida por desafios e curiosa por natureza — acredito que **dados bem utilizados contam histórias poderosas e impulsionam decisões inteligentes**.  
-Aqui no GitHub, compartilho projetos voltados à **ciência de dados, automação e visualização de insights**.
+Cloud & Platforms: Google Cloud Platform (GCP), Microsoft Fabric, Azure, Oracle
 
----
+📊 What You’ll Find Here
+
+Machine Learning projects from problem framing to model evaluation
+
+Data Science notebooks with clear EDA, feature engineering, and insights
+
+Scalable data processing and ML-ready datasets
+
+Experiments focused on business-oriented AI applications
+
+🚀 Mindset
+
+I’m curious, analytical, and driven by impact.
+I believe strong models start with solid data foundations and end with measurable results.
