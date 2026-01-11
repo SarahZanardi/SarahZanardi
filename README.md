@@ -1,7 +1,6 @@
-Sarah Zanardi — Machine Learning & Data Scientist 👩‍💻
+Sarah Zanardi — Machine Learning & Data Scientist
 
-Hello! I’m Sarah Zanardi, a Data Scientist with a strong focus on Machine Learning, statistical modeling, and AI-driven solutions.
-I design, build, and deploy data-driven models to extract insights, automate decisions, and solve complex business problems.
+Hello! I’m Sarah Zanardi, a Data Scientist with a strong focus on Machine Learning, statistical modeling, cloud-based data architectures, and GenAI-driven automation. I design, build, and deploy scalable data and ML solutions to extract insights, automate decision-making, and solve complex business problems.
 
 🧪 Areas of Expertise
 
@@ -13,33 +12,62 @@ Feature Engineering & Model Evaluation
 
 Supervised & Unsupervised Learning
 
-End-to-End ML Pipelines
+End-to-End ML Pipelines (training, validation, deployment)
 
-Large-Scale Data Processing with Spark and PySpark
+GenAI-powered automation and intelligent analytics
+
+Cloud Data Lakes and analytical architectures (AWS-focused)
+
+Large-scale data processing with Spark and PySpark
 
 🛠️ Technical Stack
 
-Programming: Python, SQL, PySpark
+Programming
 
-ML & Data Science: Scikit-learn, Pandas, NumPy, Statistics
+Python, SQL, PySpark
 
-Big Data: Spark, PySpark
+ML & Data Science
 
-Data Visualization: Matplotlib, Seaborn, Power BI
+Scikit-learn, Pandas, NumPy, Statistical Analysis
 
-Cloud & Platforms: Google Cloud Platform (GCP), Microsoft Fabric, Azure, Oracle
+Big Data & Processing
+
+Spark, PySpark
+
+Cloud & Data Architecture
+
+AWS (S3, Glue, Athena – Data Lake & Analytics)
+
+Google Cloud Platform (GCP)
+
+Microsoft Fabric
+
+Azure
+
+Oracle
+
+Data Visualization & BI
+
+Matplotlib, Seaborn
+
+Power BI
+
+AI & Automation
+
+GenAI for data analysis, reporting automation, and intelligent workflows
 
 📊 What You’ll Find Here
 
-Machine Learning projects from problem framing to model evaluation
+End-to-end Machine Learning projects, from problem framing to model evaluation
 
-Data Science notebooks with clear EDA, feature engineering, and insights
+Data Science notebooks with structured EDA, feature engineering, and insights
 
-Scalable data processing and ML-ready datasets
+AWS-based Data Lake designs and ML-ready datasets
 
-Experiments focused on business-oriented AI applications
+Scalable data pipelines and analytics architectures
+
+Experiments focused on business-oriented AI and GenAI automation use cases
 
 🚀 Mindset
 
-I’m curious, analytical, and driven by impact.
-I believe strong models start with solid data foundations and end with measurable results.
+I’m curious, analytical, and impact-driven. I believe strong models start with solid data foundations, scale through cloud and automation, and deliver value through measurable business results.
