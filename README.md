@@ -1,73 +1,67 @@
-Sarah Zanardi — Machine Learning & Data Scientist
+## Sarah Zanardi — Machine Learning & Data Scientist
 
-Hello! I’m Sarah Zanardi, a Data Scientist with a strong focus on Machine Learning, statistical modeling, cloud-based data architectures, and GenAI-driven automation. I design, build, and deploy scalable data and ML solutions to extract insights, automate decision-making, and solve complex business problems.
+Hello! I’m **Sarah Zanardi**, a Data Scientist with a strong focus on **Machine Learning, statistical modeling, cloud-based data architectures, and GenAI-driven automation**. I design, build, and deploy scalable data and ML solutions to extract insights, automate decision-making, and solve complex business problems.
 
-🧪 Areas of Expertise
+---
 
-Machine Learning & Statistical Modeling
+### 🧪 Areas of Expertise
 
-Exploratory Data Analysis (EDA)
+* Machine Learning & Statistical Modeling
+* Exploratory Data Analysis (EDA)
+* Feature Engineering & Model Evaluation
+* Supervised & Unsupervised Learning
+* End-to-End ML Pipelines (training, validation, deployment)
+* **GenAI-powered automation and intelligent analytics**
+* **Cloud Data Lakes and analytical architectures (AWS-focused)**
+* Large-scale data processing with Spark and PySpark
 
-Feature Engineering & Model Evaluation
+---
 
-Supervised & Unsupervised Learning
+### 🛠️ Technical Stack
 
-End-to-End ML Pipelines (training, validation, deployment)
+**Programming**
 
-GenAI-powered automation and intelligent analytics
+* Python, SQL, PySpark
 
-Cloud Data Lakes and analytical architectures (AWS-focused)
+**ML & Data Science**
 
-Large-scale data processing with Spark and PySpark
+* Scikit-learn, Pandas, NumPy, Statistical Analysis
 
-🛠️ Technical Stack
+**Big Data & Processing**
 
-Programming
+* Spark, PySpark
 
-Python, SQL, PySpark
+**Cloud & Data Architecture**
 
-ML & Data Science
+* **AWS (S3, Glue, Athena – Data Lake & Analytics)**
+* Google Cloud Platform (GCP)
+* Microsoft Fabric
+* Azure
+* Oracle
 
-Scikit-learn, Pandas, NumPy, Statistical Analysis
+**Data Visualization & BI**
 
-Big Data & Processing
+* Matplotlib, Seaborn
+* Power BI
 
-Spark, PySpark
+**AI & Automation**
 
-Cloud & Data Architecture
+* **GenAI for data analysis, reporting automation, and intelligent workflows**
 
-AWS (S3, Glue, Athena – Data Lake & Analytics)
+---
 
-Google Cloud Platform (GCP)
+### 📊 What You’ll Find Here
 
-Microsoft Fabric
+* End-to-end **Machine Learning projects**, from problem framing to model evaluation
+* Data Science notebooks with structured **EDA, feature engineering, and insights**
+* **AWS-based Data Lake designs** and ML-ready datasets
+* Scalable data pipelines and analytics architectures
+* Experiments focused on **business-oriented AI and GenAI automation use cases**
 
-Azure
+---
 
-Oracle
+### 🚀 Mindset
 
-Data Visualization & BI
+I’m curious, analytical, and impact-driven. I believe strong models start with **solid data foundations**, scale through **cloud and automation**, and deliver value through **measurable business results**.
 
-Matplotlib, Seaborn
-
-Power BI
-
-AI & Automation
-
-GenAI for data analysis, reporting automation, and intelligent workflows
-
-📊 What You’ll Find Here
-
-End-to-end Machine Learning projects, from problem framing to model evaluation
-
-Data Science notebooks with structured EDA, feature engineering, and insights
-
-AWS-based Data Lake designs and ML-ready datasets
-
-Scalable data pipelines and analytics architectures
-
-Experiments focused on business-oriented AI and GenAI automation use cases
-
-🚀 Mindset
-
-I’m curious, analytical, and impact-driven. I believe strong models start with solid data foundations, scale through cloud and automation, and deliver value through measurable business results.
+**estratégica para recrutadores**
