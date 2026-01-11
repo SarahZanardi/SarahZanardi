@@ -63,5 +63,3 @@ Hello! I’m **Sarah Zanardi**, a Data Scientist with a strong focus on **Machin
 ### 🚀 Mindset
 
 I’m curious, analytical, and impact-driven. I believe strong models start with **solid data foundations**, scale through **cloud and automation**, and deliver value through **measurable business results**.
-
-**estratégica para recrutadores**
