@@ -1,65 +1,46 @@
-## Sarah Zanardi — Machine Learning & Data Scientist
+Sarah Zanardi — Data & BI Analyst | Product Owner | Data Engineering
 
-Hello! I’m **Sarah Zanardi**, a Data Scientist with a strong focus on **Machine Learning, statistical modeling, cloud-based data architectures, and GenAI-driven automation**. I design, build, and deploy scalable data and ML solutions to extract insights, automate decision-making, and solve complex business problems.
+Hello! I’m Sarah Zanardi, a Data & BI Analyst and Product Owner focused on data-driven decision-making, analytical solutions, and scalable data architectures. I work at the intersection of business, data engineering, and analytics, designing solutions that improve operational efficiency and support strategic decisions.
 
----
+🧪 Areas of Expertise
+Data Analysis & Business Intelligence (BI)
+KPI definition, performance monitoring & operational analytics
+Data modeling and analytical data structures
+Data Lake implementation and data architecture design
+Data pipeline structuring and optimization
+Process mapping and data-driven project implementation
+Stakeholder management and Product Ownership in data projects
+Exploratory Data Analysis (EDA) for business insights
+🛠️ Technical Stack
 
-### 🧪 Areas of Expertise
+Programming & Data
 
-* Machine Learning & Statistical Modeling
-* Exploratory Data Analysis (EDA)
-* Feature Engineering & Model Evaluation
-* Supervised & Unsupervised Learning
-* End-to-End ML Pipelines (training, validation, deployment)
-* **GenAI-powered automation and intelligent analytics**
-* **Cloud Data Lakes and analytical architectures (AWS-focused)**
-* Large-scale data processing with Spark and PySpark
+Python, SQL, R
 
----
+Data Engineering & Architecture
 
-### 🛠️ Technical Stack
+Data Lake concepts & implementation
+ETL/ELT processes
+Structured and semi-structured data processing
 
-**Programming**
+Cloud & Platforms
 
-* Python, SQL, PySpark
+AWS (S3, Athena – Data Lake & Analytics)
+Google Cloud Platform (BigQuery – Data Warehouse & Analytics)
+Microsoft Fabric
+Azure
+Oracle
 
-**ML & Data Science**
+Data Visualization & BI
 
-* Scikit-learn, Pandas, NumPy, Statistical Analysis
+Power BI
+Data storytelling & dashboard design
+📊 What You’ll Find Here
+BI projects focused on operational and financial performance
+Data models and dashboards for decision-making support
+Data Lake structure and ingestion strategies
+Analytical datasets and KPI frameworks
+End-to-end projects connecting data engineering → analytics → business impact
+🚀 Mindset
 
-**Big Data & Processing**
-
-* Spark, PySpark
-
-**Cloud & Data Architecture**
-
-* **AWS (S3, Glue, Athena – Data Lake & Analytics)**
-* Google Cloud Platform (GCP)
-* Microsoft Fabric
-* Azure
-* Oracle
-
-**Data Visualization & BI**
-
-* Matplotlib, Seaborn
-* Power BI
-
-**AI & Automation**
-
-* **GenAI for data analysis, reporting automation, and intelligent workflows**
-
----
-
-### 📊 What You’ll Find Here
-
-* End-to-end **Machine Learning projects**, from problem framing to model evaluation
-* Data Science notebooks with structured **EDA, feature engineering, and insights**
-* **AWS-based Data Lake designs** and ML-ready datasets
-* Scalable data pipelines and analytics architectures
-* Experiments focused on **business-oriented AI and GenAI automation use cases**
-
----
-
-### 🚀 Mindset
-
-I’m curious, analytical, and impact-driven. I believe strong models start with **solid data foundations**, scale through **cloud and automation**, and deliver value through **measurable business results**.
+I combine analytical thinking, business context, and data architecture to deliver solutions that generate real impact. I believe that strong analytics starts with well-structured data, scales with efficient pipelines, and creates value through clear and actionable insights.
