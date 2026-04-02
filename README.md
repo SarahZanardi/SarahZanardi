@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Sarah Zanardi  
 ### Data & BI Analyst | Product Owner | Data Engineering  
 
-💡 Turning data into strategic decisions, scalable architectures, and real business impact.
+💡 Data-driven professional focused on transforming complex data into strategic decisions and scalable solutions.
 
 ---
 
 ## 🚀 About Me
-I’m a Data & BI Analyst and Product Owner working at the intersection of **business, data engineering, and analytics**.
+I work at the intersection of **business, analytics, and data engineering**, delivering solutions that improve operational efficiency and support decision-making.
 
-I design and deliver **end-to-end data solutions** — from raw data ingestion to executive dashboards — always focused on **performance, scalability, and decision-making**.
+My approach combines **analytical thinking, data architecture, and business context**, ensuring that data is not only available — but actionable.
 
 ---
 
@@ -16,70 +16,58 @@ I design and deliver **end-to-end data solutions** — from raw data ingestion t
 
 🔹 **Business Intelligence & Analytics**  
 - KPI definition & performance monitoring  
-- Operational & financial analytics  
-- Exploratory Data Analysis (EDA)
+- Operational and financial analysis  
+- Exploratory Data Analysis (EDA)  
 
 🔹 **Data Engineering & Architecture**  
 - Data modeling & analytical structures  
-- Data Lake & Data Warehouse design  
-- ETL / ELT pipelines & optimization  
+- Data Lake & Data Warehouse concepts  
+- ETL / ELT pipeline structuring  
 
-🔹 **Product & Strategy**  
+🔹 **Product & Business Strategy**  
 - Stakeholder management  
-- Data-driven product decisions  
-- Process mapping & optimization  
+- Data-driven decision-making  
+- Process mapping and optimization  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👩‍💻 Programming
-`Python` | `SQL` | `R`
+### 👩‍💻 Programming  
+`Python` | `SQL` | `R`  
 
-### ☁️ Cloud & Data Platforms
+### ☁️ Cloud & Platforms  
 `AWS (S3, Athena)`  
-`GCP (BigQuery)`  
-`Azure` | `Microsoft Fabric` | `Oracle`
+`Google Cloud (BigQuery)`  
+`Azure` | `Microsoft Fabric` | `Oracle`  
 
-### 🧱 Data Engineering
-- Data Lake architecture  
+### 🧱 Data Engineering  
+- Data pipelines & ingestion  
 - Structured & semi-structured data  
-- Data pipelines  
+- Data architecture fundamentals  
 
-### 📊 Data Visualization
+### 📊 Data Visualization  
 - Power BI  
-- Data storytelling  
 - Dashboard design  
-
----
-
-## 📂 Featured Projects (Coming Soon 🚧)
-
-🔸 BI dashboards for operational performance  
-🔸 Data pipeline & ingestion frameworks  
-🔸 Data Lake architecture projects  
-🔸 KPI frameworks & analytical datasets  
-
-👉 *You can also build illustrative projects to showcase real-world scenarios.*
+- Data storytelling  
 
 ---
 
 ## 📈 What I Deliver
-✔ Scalable data architectures  
-✔ Reliable data pipelines  
-✔ Business-oriented dashboards  
-✔ Insights that drive decisions  
+✔ Structured and reliable data environments  
+✔ Scalable data pipelines  
+✔ Clear and actionable insights  
+✔ Business-oriented analytics  
 
 ---
 
 ## 🧩 Mindset
+Data is only valuable when it drives decisions.
 
-Strong analytics starts with **well-structured data**,  
-scales with **efficient pipelines**,  
-and creates value through **clear insights**.
+I focus on building **well-structured data foundations**, enabling **efficient analysis**, and delivering **insights that create real impact**.
 
 ---
 
-## 📫 Let's Connect
-- LinkedIn: https://www.linkedin.com/in/sarah-zanardi-
+## 📫 Connect with Me  
+- LinkedIn: https://www.linkedin.com/in/sarah-zanardi-  
 - GitHub: https://github.com/SarahZanardi
