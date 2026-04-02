@@ -1,46 +1,85 @@
-Sarah Zanardi — Data & BI Analyst | Product Owner | Data Engineering
+# 👋 Hi, I'm Sarah Zanardi  
+### Data & BI Analyst | Product Owner | Data Engineering  
 
-Hello! I’m Sarah Zanardi, a Data & BI Analyst and Product Owner focused on data-driven decision-making, analytical solutions, and scalable data architectures. I work at the intersection of business, data engineering, and analytics, designing solutions that improve operational efficiency and support strategic decisions.
+💡 Turning data into strategic decisions, scalable architectures, and real business impact.
 
-🧪 Areas of Expertise
-Data Analysis & Business Intelligence (BI)
-KPI definition, performance monitoring & operational analytics
-Data modeling and analytical data structures
-Data Lake implementation and data architecture design
-Data pipeline structuring and optimization
-Process mapping and data-driven project implementation
-Stakeholder management and Product Ownership in data projects
-Exploratory Data Analysis (EDA) for business insights
-🛠️ Technical Stack
+---
 
-Programming & Data
+## 🚀 About Me
+I’m a Data & BI Analyst and Product Owner working at the intersection of **business, data engineering, and analytics**.
 
-Python, SQL, R
+I design and deliver **end-to-end data solutions** — from raw data ingestion to executive dashboards — always focused on **performance, scalability, and decision-making**.
 
-Data Engineering & Architecture
+---
 
-Data Lake concepts & implementation
-ETL/ELT processes
-Structured and semi-structured data processing
+## 🧠 Core Expertise
 
-Cloud & Platforms
+🔹 **Business Intelligence & Analytics**  
+- KPI definition & performance monitoring  
+- Operational & financial analytics  
+- Exploratory Data Analysis (EDA)
 
-AWS (S3, Athena – Data Lake & Analytics)
-Google Cloud Platform (BigQuery – Data Warehouse & Analytics)
-Microsoft Fabric
-Azure
-Oracle
+🔹 **Data Engineering & Architecture**  
+- Data modeling & analytical structures  
+- Data Lake & Data Warehouse design  
+- ETL / ELT pipelines & optimization  
 
-Data Visualization & BI
+🔹 **Product & Strategy**  
+- Stakeholder management  
+- Data-driven product decisions  
+- Process mapping & optimization  
 
-Power BI
-Data storytelling & dashboard design
-📊 What You’ll Find Here
-BI projects focused on operational and financial performance
-Data models and dashboards for decision-making support
-Data Lake structure and ingestion strategies
-Analytical datasets and KPI frameworks
-End-to-end projects connecting data engineering → analytics → business impact
-🚀 Mindset
+---
 
-I combine analytical thinking, business context, and data architecture to deliver solutions that generate real impact. I believe that strong analytics starts with well-structured data, scales with efficient pipelines, and creates value through clear and actionable insights.
+## 🛠️ Tech Stack
+
+### 👩‍💻 Programming
+`Python` | `SQL` | `R`
+
+### ☁️ Cloud & Data Platforms
+`AWS (S3, Athena)`  
+`GCP (BigQuery)`  
+`Azure` | `Microsoft Fabric` | `Oracle`
+
+### 🧱 Data Engineering
+- Data Lake architecture  
+- Structured & semi-structured data  
+- Data pipelines  
+
+### 📊 Data Visualization
+- Power BI  
+- Data storytelling  
+- Dashboard design  
+
+---
+
+## 📂 Featured Projects (Coming Soon 🚧)
+
+🔸 BI dashboards for operational performance  
+🔸 Data pipeline & ingestion frameworks  
+🔸 Data Lake architecture projects  
+🔸 KPI frameworks & analytical datasets  
+
+👉 *You can also build illustrative projects to showcase real-world scenarios.*
+
+---
+
+## 📈 What I Deliver
+✔ Scalable data architectures  
+✔ Reliable data pipelines  
+✔ Business-oriented dashboards  
+✔ Insights that drive decisions  
+
+---
+
+## 🧩 Mindset
+
+Strong analytics starts with **well-structured data**,  
+scales with **efficient pipelines**,  
+and creates value through **clear insights**.
+
+---
+
+## 📫 Let's Connect
+- LinkedIn: https://www.linkedin.com/in/sarah-zanardi-
+- GitHub: https://github.com/SarahZanardi
