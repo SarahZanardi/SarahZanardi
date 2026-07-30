@@ -4,38 +4,63 @@
 
 ### Data Engineer · Analytics · BI
 
-Construo pipelines e estruturas de dados confiáveis para transformar informação em decisões melhores.
+**Transformo dados em bases confiáveis para decisões melhores.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-zanardi-)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SarahZanardi)
+<a href="https://www.linkedin.com/in/sarah-zanardi-">
+  <img src="https://img.shields.io/badge/Falar%20comigo-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Falar comigo no LinkedIn" />
+</a>
+<a href="https://github.com/SarahZanardi">
+  <img src="https://img.shields.io/badge/Explorar%20projetos-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar projetos no GitHub" />
+</a>
 
 </div>
 
-## Em poucas palavras
+<br>
 
-| Foco | Como contribuo |
-| --- | --- |
-| **Engenharia de Dados** | ETL/ELT, integração, transformação e automação |
-| **Plataformas de dados** | Data Lake, Data Warehouse e modelagem analítica |
-| **Analytics & BI** | Dados confiáveis para KPIs, dashboards e decisões |
-| **Negócio** | Requisitos claros, comunicação e impacto mensurável |
+> Engenharia de Dados com visão de negócio: da fonte ao insight, com qualidade, clareza e propósito.
 
-## O que faço
+## Como posso contribuir
 
-Atuo na interseção entre **engenharia, análise e negócio**. Organizo dados desde a origem até o consumo, com atenção à qualidade, documentação, rastreabilidade e facilidade de manutenção.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ Construção</h3>
+      <p>Pipelines ETL/ELT, integração, transformação e automação de dados.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧱 Organização</h3>
+      <p>Data Lake, Data Warehouse, modelagem dimensional e estruturas analíticas.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✅ Confiabilidade</h3>
+      <p>Qualidade, validação, documentação e rastreabilidade para dados mais seguros.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Impacto</h3>
+      <p>KPIs, Analytics e BI conectados às necessidades reais do negócio.</p>
+    </td>
+  </tr>
+</table>
+
+## Meu jeito de trabalhar
 
 ```mermaid
 flowchart LR
-    A[Fontes] --> B[Ingestão]
-    B --> C[Transformação]
-    C --> D[Data Lake / Warehouse]
-    D --> E[Qualidade]
-    E --> F[Analytics e BI]
+    A[Entender o contexto] --> B[Organizar as fontes]
+    B --> C[Construir o pipeline]
+    C --> D[Validar a qualidade]
+    D --> E[Disponibilizar para análise]
+    E --> F[Apoiar decisões]
 ```
 
-## Stack principal
+## Stack
 
-### Linguagens e análise
+<details open>
+  <summary><strong>Ver tecnologias</strong></summary>
+
+### Linguagens
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -49,33 +74,27 @@ flowchart LR
 ![Fabric](https://img.shields.io/badge/Microsoft%20Fabric-6B46C1?style=flat-square)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-### Entrega de valor
+### Analytics
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000)
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-0f766e?style=flat-square)
 ![Data Quality](https://img.shields.io/badge/Data%20Quality-16a34a?style=flat-square)
 
-## Competências
+</details>
 
-- Construção e organização de pipelines **ETL/ELT**
-- Modelagem dimensional e estruturas analíticas
-- Integração, tratamento e padronização de dados
-- Validação de indicadores e definição de KPIs
-- Documentação, qualidade e governança de dados
-- Comunicação com stakeholders e entendimento de requisitos
+## O que valorizo
 
-## O que busco construir
+`Clareza` · `Qualidade` · `Automação` · `Documentação` · `Escalabilidade` · `Colaboração`
 
-Soluções de dados **confiáveis, escaláveis e fáceis de consumir**: processos automatizados, dados bem modelados e informações prontas para apoiar análises e decisões.
+## Em uma frase
 
-> Dados bem estruturados são o ponto de partida para decisões melhores.
-
-## Vamos conversar?
-
-Se você trabalha com dados, engenharia ou transformação digital, será um prazer trocar ideias.
+Construo soluções de dados **confiáveis, escaláveis e fáceis de consumir**, aproximando tecnologia, análise e negócio.
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/sarah-zanardi-) · [GitHub](https://github.com/SarahZanardi)
+### Vamos conversar?
+
+Se você trabalha com dados, engenharia ou transformação digital, [fale comigo no LinkedIn](https://www.linkedin.com/in/sarah-zanardi-).<br>
+Você também pode [explorar meus projetos](https://github.com/SarahZanardi).
 
 </div>
