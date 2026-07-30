@@ -1,118 +1,81 @@
-<h1 align="center">Hi, I'm Sarah Zanardi 👋</h1>
-<h3 align="center">Data & BI Analyst | Product Owner | Data Engineering</h3>
+<div align="center">
 
-<p align="center">
-  Data-driven professional focused on turning complex data into strategic decisions and scalable solutions.
-</p>
+# Sarah Zanardi
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sarah-zanardi-" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sarah%20Zanardi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://github.com/SarahZanardi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-SarahZanardi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  </a>
-</p>
+### Data Engineer · Analytics · BI
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Analytics%20%26%20Business%20Impact-1f6feb?style=flat-square" alt="Focus Badge" />
-  <img src="https://img.shields.io/badge/BI-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000" alt="Power BI Badge" />
-  <img src="https://img.shields.io/badge/Data%20Engineering-ETL%20%7C%20ELT-0ea5e9?style=flat-square" alt="Data Engineering Badge" />
-</p>
+Construo pipelines e estruturas de dados confiáveis para transformar informação em decisões melhores.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-zanardi-)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SarahZanardi)
 
-## Quick Navigation
-- [About Me](#about-me)
-- [How I Work](#how-i-work)
-- [Core Expertise](#core-expertise)
-- [Tech Stack](#tech-stack)
-- [What I Deliver](#what-i-deliver)
-- [Mindset](#mindset)
-- [Connect With Me](#connect-with-me)
+</div>
 
----
+## Em poucas palavras
 
-## About Me
-I work at the intersection of **business, analytics, and data engineering**, creating solutions that improve operational efficiency and support better decisions.
+| Foco | Como contribuo |
+| --- | --- |
+| **Engenharia de Dados** | ETL/ELT, integração, transformação e automação |
+| **Plataformas de dados** | Data Lake, Data Warehouse e modelagem analítica |
+| **Analytics & BI** | Dados confiáveis para KPIs, dashboards e decisões |
+| **Negócio** | Requisitos claros, comunicação e impacto mensurável |
 
-My approach combines **analytical thinking + data architecture + business context**, ensuring data is not only available, but truly actionable.
+## O que faço
 
----
+Atuo na interseção entre **engenharia, análise e negócio**. Organizo dados desde a origem até o consumo, com atenção à qualidade, documentação, rastreabilidade e facilidade de manutenção.
 
-## How I Work
 ```mermaid
 flowchart LR
-    A[Business Context] --> B[Data Structuring]
-    B --> C[Analysis & BI]
-    C --> D[Actionable Insights]
-    D --> E[Decision & Impact]
+    A[Fontes] --> B[Ingestão]
+    B --> C[Transformação]
+    C --> D[Data Lake / Warehouse]
+    D --> E[Qualidade]
+    E --> F[Analytics e BI]
 ```
 
----
+## Stack principal
 
-## Core Expertise
-<details>
-  <summary><strong>Business Intelligence & Analytics</strong></summary>
+### Linguagens e análise
 
-- KPI definition and performance monitoring
-- Operational and financial analysis
-- Exploratory Data Analysis (EDA)
-</details>
-
-<details>
-  <summary><strong>Data Engineering & Architecture</strong></summary>
-
-- Data modeling and analytical structures
-- Data Lake and Data Warehouse concepts
-- ETL / ELT pipeline structuring
-</details>
-
-<details>
-  <summary><strong>Product & Business Strategy</strong></summary>
-
-- Stakeholder management
-- Data-driven decision-making
-- Process mapping and optimization
-</details>
-
----
-
-## Tech Stack
-### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-### Cloud & Platforms
-![AWS](https://img.shields.io/badge/AWS-S3%20%7C%20Athena-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+### Cloud e plataformas de dados
+
+![AWS](https://img.shields.io/badge/AWS%20%7C%20S3%20%7C%20Athena-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![BigQuery](https://img.shields.io/badge/Google%20Cloud%20%7C%20BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-6B46C1?style=flat-square)
+![Fabric](https://img.shields.io/badge/Microsoft%20Fabric-6B46C1?style=flat-square)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-### Data Visualization
+### Entrega de valor
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000)
-![Dashboard Design](https://img.shields.io/badge/Dashboard-Design-0f766e?style=flat-square)
-![Storytelling](https://img.shields.io/badge/Data-Storytelling-1d4ed8?style=flat-square)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-0f766e?style=flat-square)
+![Data Quality](https://img.shields.io/badge/Data%20Quality-16a34a?style=flat-square)
 
----
+## Competências
 
-## What I Deliver
-- Structured and reliable data environments
-- Scalable data pipelines
-- Clear and actionable insights
-- Business-oriented analytics
+- Construção e organização de pipelines **ETL/ELT**
+- Modelagem dimensional e estruturas analíticas
+- Integração, tratamento e padronização de dados
+- Validação de indicadores e definição de KPIs
+- Documentação, qualidade e governança de dados
+- Comunicação com stakeholders e entendimento de requisitos
 
----
+## O que busco construir
 
-## Mindset
-**Data is only valuable when it drives decisions.**
+Soluções de dados **confiáveis, escaláveis e fáceis de consumir**: processos automatizados, dados bem modelados e informações prontas para apoiar análises e decisões.
 
-I focus on building well-structured data foundations, enabling efficient analysis, and delivering insights that generate real business impact.
+> Dados bem estruturados são o ponto de partida para decisões melhores.
 
----
+## Vamos conversar?
 
-## Connect With Me
-- LinkedIn: [linkedin.com/in/sarah-zanardi-](https://www.linkedin.com/in/sarah-zanardi-)
-- GitHub: [github.com/SarahZanardi](https://github.com/SarahZanardi)
+Se você trabalha com dados, engenharia ou transformação digital, será um prazer trocar ideias.
+
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/sarah-zanardi-) · [GitHub](https://github.com/SarahZanardi)
+
+</div>
