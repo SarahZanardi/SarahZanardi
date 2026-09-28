@@ -33,6 +33,12 @@
 
 > Atuo na interseção entre **dados, operações e tecnologia**, transformando informações em visibilidade, eficiência e decisões mais estratégicas para Logistics & Supply Chain.
 
+## Sobre mim
+
+Sou uma profissional orientada a dados, com foco em **Analytics aplicado à logística e à cadeia de suprimentos**. Gosto de organizar informações, entender processos e transformar indicadores em ações práticas para o negócio.
+
+Meu trabalho combina visão analítica, melhoria de processos e gestão de projetos, conectando **Data & Analytics, Supply Chain, PMP®, Oracle Cloud e AI Foundations**.
+
 ## Meu foco
 
 <table>
@@ -58,15 +64,17 @@
   </tr>
 </table>
 
-## O que eu entrego
+## Indicadores que conectam dados e operação
 
 <div align="center">
 
-| **Visibilidade** | **Eficiência** | **Governança** |
+| **Estoque** | **Transporte** | **Nível de serviço** |
 |:---:|:---:|:---:|
-| KPIs e dashboards para acompanhar a operação | Identificação de gargalos e oportunidades | Dados confiáveis, rastreáveis e organizados |
+| Cobertura · Giro · Ruptura | Lead time · Custo · OTIF | SLA · Atendimento · Performance |
 
 </div>
+
+> O objetivo é conectar esses indicadores a decisões: identificar gargalos, priorizar oportunidades e acompanhar a evolução da operação.
 
 ## Como posso contribuir
 
@@ -81,6 +89,22 @@ Cloud e IA            →  Transformação sustentável
 - Estruturar dados para melhorar visibilidade, rastreabilidade e qualidade das informações.
 - Identificar gargalos, tendências e oportunidades de eficiência operacional.
 - Apoiar projetos de transformação digital com organização, governança e foco em resultados.
+
+## Projetos em destaque
+
+Os próximos projetos serão apresentados com uma estrutura objetiva:
+
+```text
+Problema de negócio → Dados e ferramentas → Solução → Resultado mensurável
+```
+
+| Tema | O que demonstrar |
+|:---|:---|
+| **Supply Chain Analytics** | KPIs, análise de performance e oportunidades operacionais |
+| **Data & BI** | Modelagem, qualidade de dados e dashboards para decisão |
+| **Cloud & AI** | Fundamentos de Oracle Cloud e aplicações de inteligência artificial |
+
+> [Explore meus repositórios no GitHub](https://github.com/SarahZanardi) para acompanhar novos projetos e estudos aplicados.
 
 ## Stack e conhecimentos
 
@@ -106,6 +130,17 @@ Cloud e IA            →  Transformação sustentável
 ### Competências-chave
 
 `Supply Chain Analytics` · `Logistics` · `Process Improvement` · `PMP®` · `Oracle Cloud` · `AI Foundations`
+
+</div>
+
+## Temas de especialização
+
+<div align="center">
+
+![Supply Chain Analytics](https://img.shields.io/badge/SUPPLY%20CHAIN%20ANALYTICS-1D4ED8?style=for-the-badge)
+![Logistics](https://img.shields.io/badge/LOGISTICS-0369A1?style=for-the-badge)
+![Project Management](https://img.shields.io/badge/PROJECT%20MANAGEMENT-7C3AED?style=for-the-badge)
+![Process Improvement](https://img.shields.io/badge/PROCESS%20IMPROVEMENT-0F766E?style=for-the-badge)
 
 </div>
 
